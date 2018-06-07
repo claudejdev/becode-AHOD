@@ -8,9 +8,10 @@
 ## One-Pager Website
 - **Client**: Scout Unite 48e Impeesa
 
-- **Qui ?** : - [Claude Janssen](https://github.com/ClaudeJanssenPro)
-              - [Mariane Niwemfura](https://github.com/MarianeNiwe)
-              - [Hakan Poyraz](https://github.com/Plouck)
+- **Qui ?** : 
+  - [Claude Janssen](https://github.com/ClaudeJanssenPro)
+  - [Mariane Niwemfura](https://github.com/MarianeNiwe)
+  - [Hakan Poyraz](https://github.com/Plouck)
 
 - **Quand?**: Le 07 Juin 2018 de 10 a 16h.
 
