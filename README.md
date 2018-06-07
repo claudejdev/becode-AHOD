@@ -49,7 +49,7 @@ Pour cela, nous avons dû créer un nouvel site web basé sur notre imagination 
 
 ## Test lighthouse
 
-![resultat](https://contattafiles.s3.us-west-1.amazonaws.com/tnt14094/Syrqk5hrI48hPGL/Test_01.png)
+![resultat](https://contattafiles.s3.us-west-1.amazonaws.com/tnt14094/TSUa0BIQMDXFTEk/Test_02.png)
 
 Nous pouvons pas vraiment dire que le résultat est assez satisfaisant mais dans un delais de 6heures c'est mieux.
 
