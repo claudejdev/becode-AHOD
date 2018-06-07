@@ -58,5 +58,5 @@ Nous pouvons pas vraiment dire que le résultat est assez satisfaisant mais dans
 - Designer le site c'est un peu complique pour nous,ca serait mieux si nous avions un site existant pour voir l'idee du client.
 
 
-## FORMILAIRE DU REMISE DU PROJET: 
-[ICI](https://goo.gl/forms/ov5m6hVD4ZUxY2Yc2)
+## Formulaire de remise du Projet: 
+[ICI](https://docs.google.com/forms/d/e/1FAIpQLSekPRPUW6mC1NzT_APdnxFgTuUSxSgb7lNGu-mbbu2pm4PZhA/viewform)
