@@ -17,7 +17,6 @@
 - **Ou ?**  : A[Becode](https://github.com/becodeorg/)
 
 
-
 ## Resume du **Project**
 
 Notre groupe doit travaler sur un projet (un site inexistant), et doit réaliser et déployer en quelques heures un one-pager qui propose une meilleure version de ce projet, attractif, allant à l'essentiel, en utilisant un framework CSS, avec au moins une animation CSS.
@@ -45,6 +44,7 @@ Pour cela, nous avons dû créer un nouvel site web basé sur notre imagination 
 3. Nous avons aussi creer un Mockup pour voir un peu l'idee de ce que nous avons besoin de creer comme site.
 
 **L'idee du projet8**
+
 ![plan](plan.png)
 
 ## Test lighthouse
@@ -56,10 +56,7 @@ Nous pouvons pas vraiment dire que le résultat est assez satisfaisant mais dans
 ## Difficultés rencontrées
 
 - Designer le site c'est un peu complique pour nous,ca serait mieux si nous avions un site existant pour voir l'idee du client.
-- 
 
 
-
-
-
-- remise: [formulaire](https://goo.gl/forms/ov5m6hVD4ZUxY2Yc2)
+## FORMILAIRE DU REMISE DU PROJET: 
+[ICI](https://goo.gl/forms/ov5m6hVD4ZUxY2Yc2)
