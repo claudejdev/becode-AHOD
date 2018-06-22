@@ -40,7 +40,7 @@ Pour cela, nous avons dû créer un nouvel site web basé sur notre imagination 
 
 ## Méthodes de travail
 
-1. Pour terminer à temps, nous avons d'abord commencé par créer un repositoire et partagé les taches entre nous après chaque contribuant a crée une branche base sur ce qu'il devrait faire.
+1. Pour terminer à temps, nous avons d'abord commencé par créer un dépôt Github et nous nous sommes répartis avons partagé les tâches entre nous après chaque contribuant a crée une branche base sur ce qu'il devrait faire.
 2. Comme nous n'avions pas un site existant nous avons du cherché les elements pour créer le site.
 3. Nous avons aussi créer un Mockup pour voir un peu l'idée de ce que nous avons besoin de créer comme site.
 
@@ -52,11 +52,11 @@ Pour cela, nous avons dû créer un nouvel site web basé sur notre imagination 
 
 ![résultat](https://contattafiles.s3.us-west-1.amazonaws.com/tnt14094/TSUa0BIQMDXFTEk/Test_02.png)
 
-Nous pouvons pas vraiment dire que le résultat est assez satisfaisant mais si nous avions encore un peux de temps nous pouvions faire encore mieux.
+Nous ne sommes pas complètement satisfaits du pouvons pas vraiment dire que le résultat est assez satisfaisant mais si nous avions encore un peux de temps nous pouvions faire encore mieux.
 
 ## Difficultés rencontrées
 
-- Designer le site c'était un peu compliqué pour nous,ca serait mieux si nous avions un site existant pour voir l'idee du client. Mais après la disposition de tous les elements c'était beaucoup mieux.
+- Imaginer une page sans connaître les attentes du client a été compliqué pour nous, ça aurait été utile d'en savoir plus. On s'est sentis plus à l'aise lorsque nous avons trouvé un template satisfaisant.
 
 
 ## Formulaire de remise du Projet: 
@@ -64,3 +64,20 @@ Nous pouvons pas vraiment dire que le résultat est assez satisfaisant mais si n
 
 ## Résultat final
 **[Projet final](https://claudejanssenpro.github.io/becode-AHOD/)**
+
+## Évaluation du 14/06/18
+> ## Critères objectifs
+> 
+>  - **Performance, SEO, Progressive, Accessibility, via le lighthouse Test :** Perf: 87 / PWA : 64 / Acc : 75 / Partice : 94 / SEO 94
+>  - **Score validation W3C :** 3 erreurs
+>  - **Présence de bugs :** FALSE
+>  - **Respect de la deadline :** TRUE
+> - **Respect des consignes :**  TRUE
+> - **Readme utile, pertinent et informatif :** Bien
+> 
+> ## Critères subjectifs Voici les réactions des jurés :
+> - Cédric : très vide, peu fonctionnel, peu original (et pas de favicon)
+> - Tom : Bof : assez simple, erreurs de ponctuation (sorry :p), pas compris le "on a des cookies" qui redirige en bas de page
+> - Ayaan : _Très très simple, pas assez audacieux_
+> ----- Voilà, bravo déjà d'avoir été parmi les 13 projets qui nous ont été remis.
+
