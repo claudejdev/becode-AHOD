@@ -59,7 +59,7 @@ Ce [challenge](https://github.com/becodeorg/lovelace-2/tree/master/Projects/chal
 
 ![résultat](https://contattafiles.s3.us-west-1.amazonaws.com/tnt14094/TSUa0BIQMDXFTEk/Test_02.png)
 
-Nous ne sommes pas complètement satisfaits du pouvons pas vraiment dire que le résultat est assez satisfaisant mais si nous avions encore un peux de temps nous pouvions faire encore mieux.
+Nous pensons pouvoir améliorer ce score avec du temps supplémentaire.
 
 ## Difficultés rencontrées
 
@@ -82,9 +82,14 @@ Nous ne sommes pas complètement satisfaits du pouvons pas vraiment dire que le 
 > - **Respect des consignes :**  TRUE
 > - **Readme utile, pertinent et informatif :** Bien
 > 
-> ## Critères subjectifs Voici les réactions des jurés :
+> ## Critères subjectifs
+> **Voici les réactions des jurés :**
 > - Cédric : très vide, peu fonctionnel, peu original (et pas de favicon)
 > - Tom : Bof : assez simple, erreurs de ponctuation (sorry :p), pas compris le "on a des cookies" qui redirige en bas de page
 > - Ayaan : _Très très simple, pas assez audacieux_
 > ----- Voilà, bravo déjà d'avoir été parmi les 13 projets qui nous ont été remis.
 
+## Améliorations post 14/06
+   ## Workflow
+   - afin de travailler efficacement à distance malgré les différences de disponibilité, nous avons utilisé un tableau [Trello](https://trello.com/b/RznaUUZa/ahod) et un canal d'équipe sur Ryver.
+   - pour pouvoir proposer une PWA, nous avons déployé notre page sur un hérbergement mutualisé : https://www.claudejanssen.myownweb.be/ahod
