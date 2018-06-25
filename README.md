@@ -18,31 +18,38 @@
 - **Où ?**  : A [Becode](https://github.com/becodeorg/)
 
 
-## Résume du **Projet**
+## Résumé du projet
 
-Notre groupe devrait travailler sur un projet (un site inexistant), et doit réaliser et déployer en quelques heures un one-pager qui propose une meilleure version de ce projet, attractif, allant à l'essentiel, en utilisant un framework CSS, avec au moins une animation CSS.
+Sur base d'un site inexistant, notre groupe doit réaliser et déployer en quelques heures un one-pager qui propose une meilleure version de ce projet. Le résultat doit être attractif, aller à l'essentiel, utiliser un framework CSS, et proposer au moins une animation CSS.
 
-Ceci est pour nous aider à apprendre comment réaliser un projet dans des situations réelles, mais ne sera pas donné à un client,c'est juste un exercice de [BeCode](https://github.com/becodeorg/lovelace-2/tree/master/Projects/challenge-six-hours-team).
-Pour cela, nous avons dû créer un nouvel site web basé sur notre imagination en utilisant un [template](https://blackrockdigital.github.io/startbootstrap-one-page-wonder/).
+Ce [challenge](https://github.com/becodeorg/lovelace-2/tree/master/Projects/challenge-six-hours-team) est une mise en situation pour nous permettre d'appréhender des conditions réelles, mais ne sera pas livré à un client.
 
 
 ## Objectifs
 
-- Introduction au User-Centered Design
-- Travail de groupe coordonné avec de nouveaux collaborateurs
-- Introduction aux PWA
-- Travailler les animations CSS
+- Introduction au [User-Centric Design](https://blog.prototypr.io/introduction-to-user-centered-design-approach-b0770974789e).
+- Travail de groupe coordonné avec de nouveaux collaborateurs.
+- Introduction aux [Progressive Web Apps*](https://dev.to/pixeline/the-easy-way-to-turn-a-website-into-a-progressive-web-app-77g).
+- Travailler les animations CSS.
 - Voir comment réaliser en urgence un site web d' une page (= un "one-pager"), sur base de templates existantes. Guerilla style.
-- Utiliser des outils de validation, tels que le Lighthouse Test ou le W3C Validator, pour améliorer ses compétences de frontend
-- Travailler les compétences acquises dans un cas concret
+- Utiliser des outils de validation, tels que le Lighthouse Test ou le W3C Validator, pour améliorer ses compétences de frontend.
+- Travailler les compétences acquises dans un cas concret.
 - Découvrir les vertus du [suffisfaisant](https://fr.wikipedia.org/wiki/Satisficing) comme alternative au perfectionnisme.
 
+## Workflow
 
-## Méthodes de travail
+0. Nous avons débuté par un brainstorming pour mieux cerner le persona type de notre page et le message à faire passer (qu'est-ce que le client espère de ses visiteurs ? Qu'est-ce qui les fait vivre ?). 
+1. Comme nous n'avions pas de base de travail, nous avons alors cherché du contenu. 
+2. Nous avons ensuite créé un mockup pour visualiser la solution que nous allions proposer.
+3. Puis nous avons initié un dépôt Github, nous nous sommes répartis les tâches et chacun a créé une branche thématique (plutôt que nominative).
+4. Enfin, nous avons sélectionné un [template](https://blackrockdigital.github.io/startbootstrap-one-page-wonder/) pour établir l'apparence de notre page.
+5. Lorsque la page a  atteint un état satisfaisant, nous l'avons déployé sur [GitHub Pages]().
 
-1. Pour terminer à temps, nous avons d'abord commencé par créer un dépôt Github et nous nous sommes répartis avons partagé les tâches entre nous après chaque contribuant a crée une branche base sur ce qu'il devrait faire.
-2. Comme nous n'avions pas un site existant nous avons du cherché les elements pour créer le site.
-3. Nous avons aussi créer un Mockup pour voir un peu l'idée de ce que nous avons besoin de créer comme site.
+## Choix
+
+- Nous avons choisi de respecter les consignes en produisant un one-pager qui répond aux caractéristiques décrites, c'est-à-dire _une liste d'arguments et un "call to action" (CTA)_, en l'occurrence un formulaire de contact.
+- Il nous a semblé pertinent d'utiliser le framework [Boostrap v4.1.1](https://getbootstrap.com) pour respecter la deadline donnée et pour améliorer notre pratique vu son utilisation répandue.
+- Nous avons choisi d'animer discrétement la page avec une [Pure CSS3 Gradient Background Animation](https://codepen.io/P1N2O/pen/pyBNzX).
 
 **L'idée du projet**
 
