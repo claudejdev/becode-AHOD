@@ -91,5 +91,5 @@ Nous pensons pouvoir améliorer ce score avec du temps supplémentaire.
 
 ## Améliorations post 14/06
    ## Workflow
-   - afin de travailler efficacement à distance malgré les différences de disponibilité, nous avons utilisé un tableau [Trello](https://trello.com/b/RznaUUZa/ahod) et un canal d'équipe sur Ryver.
-   - pour pouvoir proposer une PWA, nous avons déployé notre page sur un hérbergement mutualisé : https://www.claudejanssen.myownweb.be/ahod
+   - Afin de travailler efficacement à distance malgré les différences de disponibilité, nous avons utilisé un tableau [Trello](https://trello.com/b/RznaUUZa/ahod) et un canal d'équipe sur Ryver.
+   - Pour pouvoir proposer une PWA, nous avons déployé notre page sur un hérbergement mutualisé : https://www.claudejanssen.myownweb.be/ahod
