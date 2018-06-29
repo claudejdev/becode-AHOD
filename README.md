@@ -92,4 +92,9 @@ Nous pensons pouvoir améliorer ce score avec du temps supplémentaire.
 ## Améliorations post 14/06
    ## Workflow
    - Afin de travailler efficacement à distance malgré les différences de disponibilité, nous avons utilisé un tableau [Trello](https://trello.com/b/RznaUUZa/ahod) et un canal d'équipe sur Ryver.
-   - Pour pouvoir proposer une PWA, nous avons déployé notre page sur un hérbergement mutualisé : https://www.claudejanssen.myownweb.be/ahod
+   - Pour pouvoir proposer une PWA, nous avons déployé notre page sur un hérbergement mutualisé : https://www.claudejanssen.myownweb.be/
+   - Nous avons également mis en place une URL avec l'extension tk : http://www.48eimpeesa.tk/
+   - Notre attention s'est surtout portée sur les performances Lighhouse et les erreurs W3C, où nous avons pu apporter quelques améliorations :
+  ![Lighthouse 29/6](https://www.claudejanssen.myownweb.be/reports/screenshot--2018.06.29-14-00-28.png)
+   - En terme de contenu, l'originalité et l'audace sont des concepts encore difficiles à appréhender à ce stade, cela viendra probablement avec la pratique et au contact des artistes qui nous entourent. 
+ 
