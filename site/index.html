@@ -15,8 +15,6 @@
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
-    <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
@@ -24,30 +22,81 @@
     <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
 
-    <!-- Custom styles for this template -->
-    <link href="css/one-page-wonder.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lobster|Sedgwick+Ave+Display" rel="stylesheet">
 
-    <!-- Service Worker-->
-
-    <script src="./JavaScript.js">
-
-    </script>
+    <style type="text/css">
+      html {
+      position: relative;
+      min-height: 100%;
+      }
+      .video-setting{
+        position: absolute;
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+      }
+      .txt{
+        position: relative;
+        padding-bottom:424px;
+        background-color: rgba(23, 20, 130, 0.5);
+    
+      }
+      .links > a{
+        text-align: center;
+        padding-left: 50px;
+        width: 30%;
+        color: #fff;
+        font-size: 50px;
+        font-weight: bold;
+        font-family: 'Lobster', cursive;
+      }
+      #p5 {
+        font-family: 'Lobster', cursive;
+      }
+      #videoheader .video-sample.visible {
+        opacity: 1;
+      }
+      #videoheader .video-sample {
+          z-index: 0;
+          opacity: 0;
+          position: absolute;
+          left: 0;
+          right: 0;
+          top: 0;
+          width: 100%;
+          height: 100%;
+          -webkit-object-fit: cover;
+          -moz-object-fit: cover;
+          -ms-object-fit: cover;
+          -o-object-fit: cover;
+          object-fit: cover;
+          -webkit-transition: opacity .7s linear;
+          -moz-transition: opacity .7s linear;
+          transition: opacity .7s linear;
+      }
+      @media screen and (max-width: 770px){
+        .visible {
+          opacity: 0;
+        }
+      }
+/*     body{
+      background-color: #171482;
+    } */
+    </style>
 
   </head>
 
   <body>
 
-    <header class="masthead text-center text-white">
-      <div class="masthead-content">
-
-        <div class="container">
-          <h1 class="masthead-heading mb-0">48e Impeesa</h1>
-          <h2 class="masthead-subheading mb-0">Apprendre. Pour tous. A l'extérieur.</h2>
+    <section id="videoheader" style="height: 16px;">
+      <video class="video-sample visible" autoplay="" loop="" muted="">
+        <source src="https://www.scout.org/sites/default/files/Scout.org%20Home%20video3.mp4" type="video/mp4">
+      </video>
+      <div class="container-fluid txt">
+        <div class="links">
+          <a href="#">&#9884; 48e Impeesa : bouger avec le monde.</a>
         </div>
       </div>
-    </header>
-
-    <section>
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-6 order-lg-2">
@@ -57,92 +106,13 @@
           </div>
           <div class="col-lg-6 order-lg-1">
             <div class="p-5">
-              <h2 class="display-4">Apprendre!</h2>
-              <blockquote>
-                <p>“Ne te contente pas du <i>qu’est-ce que c’est</i>, mais essaie de savoir le <i>pourquoi</i> et le <i>comment</i>.”</p>
-              <cite>Baden Powell</cite>
-              </blockquote>
-              <p>Devenir auntonome pour la vie.</p>
+              <h2 class="display-4">Rejoins-nous!</h2>
+                <p>Clos de l'Oasis 5 1140 Bruxelles <i>Tél: 0485.272.252 </i></p>
             </div>
           </div>
         </div>
       </div>
     </section>
-
-    <section>
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-lg-6">
-            <div class="p-5">
-              <img class="img-fluid rounded-circle" src="img/02.jpg" alt="">
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="p-5">
-              <h2 class="display-4">Pour tous!</h2>
-              <blockquote>
-                <p>"La vie est trop courte pour qu'on se dispute."</p>
-              <cite>Baden Powell</cite>
-              </blockquote>
-              <p>De 6 à 18 ans, sans distinction de sexe, d'origine, de race ni de croyance.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section>
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-lg-6 order-lg-2">
-            <div class="p-5">
-              <img class="img-fluid rounded-circle" src="img/02.jpg" alt="">
-            </div>
-          </div>
-          <div class="col-lg-6 order-lg-1">
-            <div class="p-5">
-              <h2 class="display-4">À l'extérieur !</h2>
-              <blockquote>
-                <p>"On nous a placés dans ce monde merveilleux pour y être heureux et jouir de la vie."</p>
-              <cite>Baden Powell</cite>
-              </blockquote>
-              <p>Découvrir la vie en plein air, apprécier la nature.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section>
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-lg-6">
-            <div class="p-5">
-              <img class="img-fluid rounded-circle" src="img/contact.png" alt="">
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="contact-menu" id="contact_01">
-                <div>
-                  <p><label for="nom">Nom :</label><input type="text" id="nom" name="nom"/></p>
-                    <p><label for="email">Email :</label><input type="text" id="email" name="email"/></p>
-                    <p><label for="message">Message :</label><textarea id="message" name="message" cols="5" rows="8"></textarea></p>
-                    <div style="text-align:center;"><input type="submit" name="envoi" value=" Envoyer " />
-                    </div>
-                </div>
-              </div>
-            </div>
-      </div>
-    </div>
-    </section>
-
-    <!-- Footer -->
-    <footer class="py-5 bg-black">
-      <div class="container">
-        <p class="m-0 text-center text-white small">Tous droits réservés &copy; Mariane, Hakan, Claude</p>
-      </div>
-      <!-- /.container -->
-    </footer>
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
